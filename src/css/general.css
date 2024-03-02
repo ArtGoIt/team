@@ -1,0 +1,20 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.section {
+  padding: 60px 0;
+}
+
+.title {
+  border: 50%;
+}
+
+.card {
+  display: flex;
+  gap: 24px;
+}
+
+.card-title {
+}
